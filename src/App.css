@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #f0f0f0;
+}
+
+.gallery-section,
+.products-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.gallery-item,
+.product-item {
+  flex: 1 1 30%; /* Ajusta según tus necesidades */
+  text-align: center;
+}
+
+.footer {
+  background: #eee;
+  padding: 10px;
+  text-align: center;
+}
