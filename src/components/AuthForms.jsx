@@ -7,7 +7,7 @@ const AuthForms = ({ isLogin }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(`Submitting ${isLogin ? 'Login' : 'Registration'} with:`, { username, password });
-    // Aquí iría la lógica de autenticación/registro
+    
   };
 
   return (

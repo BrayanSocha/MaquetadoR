@@ -14,7 +14,7 @@ const HomePageContent = () => {
   <div style={{ border: '1px solid #ccc' }}>
     <div>
         <img
-          src="https://www.shutterstock.com/image-illustration/david-street-style-graphic-designtextile-600nw-2265632523.jpg"
+          src=""
           style={{ width: '100%', display: 'block' }}
         />
         </div>
@@ -22,18 +22,21 @@ const HomePageContent = () => {
           <p>Descripción breve 1...</p>
         </div>
         <div style={{ border: '1px solid #ccc' }}>
+      
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08JbeYZ8ccPOp4Su1QuQ6xJueP1D-0XFYgA&s" 
+          src="" 
           style={{ width: '100%', display: 'block' }}
         />
+        <div>Título 2</div>
+          <p>Descripción breve 2...</p>
         </div>
         <div style={{ border: '1px solid #ccc', padding: '10px' }}>
-          <img src="https://img.freepik.com/vector-gratis/ilustracion-simio-estilo-nft-dibujado-mano_23-2149622021.jpg?semt=ais_hybrid&w=740" alt="Featured 3" style={{ width: '100%', maxHeight: '150px', objectFit: 'cover' }} />
+          <img src="" alt="Featured 3" style={{ width: '100%', maxHeight: '150px', objectFit: 'cover' }} />
           <div>Título 3</div>
           <p>Descripción breve 3...</p>
         </div>
         <div style={{ border: '1px solid #ccc', padding: '10px' }}>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvI1_Q8PI7Tsak9HIx2cK2ayLAcpwRqS7yQ&s" alt="Featured 4" style={{ width: '100%', maxHeight: '150px', objectFit: 'cover' }} />
+          <img src="" alt="Featured 4" style={{ width: '100%', maxHeight: '150px', objectFit: 'cover' }} />
           <div>Título 4</div>
           <p>Descripción breve 4...</p>
         </div>
